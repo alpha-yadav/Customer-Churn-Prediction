@@ -149,7 +149,7 @@ Reason
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/customer-churn-prediction.git
+git clone https://github.com/alpha-yadav/Customer-Churn-Prediction.git
 ```
 
 Install dependencies
@@ -188,3 +188,4 @@ python test.py
 
 Aditya Yadav
 
+[Contact Me](mailto:adityadav20101609@gmail.com?subject=Regarding%20IPL%20Analysis%20Project&body=Dear%20sir,%0A)
